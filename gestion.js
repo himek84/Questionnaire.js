@@ -11,7 +11,9 @@ let livre2 = {
 };
 
 let livre3 = {
-    reference = "102890",
+    reference = "102892",
     titre = "Une semaine en formation",
     auteur = "himek carotte"
 };
+
+let livres = [livre1, livre2, livre3];
